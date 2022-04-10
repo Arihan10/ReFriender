@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/github/KrishnanS2006/ReFriender.svg)](https://wakatime.com/badge/github/KrishnanS2006/ReFriender)
 
+Made By: Arihan Sharma, Krishnan Shankar, Jun Li, Berke Altiparmak
+
 https://www.youtube.com/watch?v=XxutOuYRz9M
 
 ## Inspiration
